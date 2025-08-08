@@ -2,6 +2,7 @@ package br.com.fiap.bean;
 
 import javax.swing.*;
 
+//UTILIZANDO ARRAYS
 public class Equipe {
     //atributos
     private String nome;

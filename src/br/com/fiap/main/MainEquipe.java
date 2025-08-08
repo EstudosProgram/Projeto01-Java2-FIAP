@@ -26,5 +26,4 @@ public class MainEquipe {
         } while (JOptionPane.showConfirmDialog(null, "Deseja continuar?", "Atenção", JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE) == 0);
         JOptionPane.showMessageDialog(null, "Fim de programa. Até mais!", "Adeus", JOptionPane.WARNING_MESSAGE);
     }
-
 }

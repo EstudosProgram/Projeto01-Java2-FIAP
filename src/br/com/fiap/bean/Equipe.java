@@ -9,9 +9,7 @@ public class Equipe {
     private String[] integrantes;
 
     //construtores
-    public Equipe() {
-
-    }
+    public Equipe() {}
 
     public Equipe(String nome, String[] integrantes) {
         this.nome = nome;
